@@ -18,38 +18,39 @@ TTS (**Text-to-Speech**)와 STT (**Speech-to-Text**)를 활용하여
 ## 🖼 프로젝트 화면
 
 <p align="center">
+  <b>🏠 메인 화면</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>👤 사용자 정보 입력</b>
+</p>
+
+<p align="center">
   <img src="screenshots/main.png" width="45%">
   <img src="screenshots/userinfo.png" width="45%">
 </p>
 
-<p align="center">
-  <b>🏠 메인 화면</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>👤 사용자 정보 입력</b>
-</p>
-
 <br>
-
-<p align="center">
-  <img src="screenshots/survey.png" width="45%">
-  <img src="screenshots/result.png" width="45%">
-</p>
 
 <p align="center">
   <b>📝 설문 진행 화면</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>📊 결과 화면</b>
 </p>
 
+<p align="center">
+  <img src="screenshots/survey.png" width="45%">
+  <img src="screenshots/result.png" width="45%">
+</p>
+
 <br>
+
+<p align="center">
+  <b>👨‍💼 관리자 통계 조회</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>📋 관리자 결과 조회</b>
+</p>
 
 <p align="center">
   <img src="screenshots/admin_1.png" width="45%">
   <img src="screenshots/admin_2.png" width="45%">
 </p>
 
-<p align="center">
-  <b>👨‍💼 관리자 통계 조회</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📋 관리자 결과 조회</b>
-</p>
 ---
 
 ## 🛠 기술 스택
