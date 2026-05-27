@@ -17,17 +17,17 @@ TTS (**Text-to-Speech**)와 STT (**Speech-to-Text**)를 활용하여
 
 ## 🖼 프로젝트 화면
 
-### 🏠 메인 화면
-![메인](screenshots/main.png)
+| 🏠 메인 화면 | 👤 사용자 정보 입력 |
+|-------------|-------------------|
+| ![](screenshots/main.png) | ![](screenshots/userinfo.png) |
 
-### 📝 설문 진행 화면
-![설문](screenshots/survey.png)
+| 📝 설문 진행 화면 | 📊 결과 화면 |
+|------------------|-------------|
+| ![](screenshots/survey.png) | ![](screenshots/result.png) |
 
-### 📊 결과 화면
-![결과](screenshots/result.png)
-
-### 👨‍💼 관리자 화면
-![관리자](screenshots/admin.png)
+| 👨‍💼 관리자 통계 조회 | 📋 관리자 결과 조회 |
+|------------------|------------------|
+| ![](screenshots/admin_1.png) | ![](screenshots/admin_2.png) |
 
 ---
 
