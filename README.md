@@ -5,51 +5,51 @@
 
 ---
 
-## 📌 프로젝트 소개
-
-TTS (**Text-to-Speech**)와 STT (**Speech-to-Text**)를 활용하여  
-사용자가 **음성으로 설문을 진행할 수 있는 인터랙티브 웹 시스템**입니다.
-
-기존 텍스트 기반 설문의 접근성을 개선하고,  
-보다 자연스러운 **사용자-시스템 상호작용 (Human-Machine Interaction)** 을 구현하는 것을 목표로 개발했습니다.
-
----
-
 ## 🖼 프로젝트 화면
 
-<p align="center">
-  <b>🏠 메인 화면</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>👤 사용자 정보 입력</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="screenshots/main.png" width="45%">
-  <img src="screenshots/userinfo.png" width="45%">
-</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div>
+    <p align="center"><b>🏠 메인 화면</b></p>
+    <img src="screenshots/main.png" width="450">
+  </div>
 
-<br>
-
-<p align="center">
-  <b>📝 설문 진행 화면</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📊 결과 화면</b>
-</p>
-
-<p align="center">
-  <img src="screenshots/survey.png" width="45%">
-  <img src="screenshots/result.png" width="45%">
-</p>
+  <div>
+    <p align="center"><b>👤 사용자 정보 입력</b></p>
+    <img src="screenshots/userinfo.png" width="450">
+  </div>
+</div>
 
 <br>
 
-<p align="center">
-  <b>👨‍💼 관리자 통계 조회</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📋 관리자 결과 조회</b>
-</p>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div>
+    <p align="center"><b>📝 설문 진행 화면</b></p>
+    <img src="screenshots/survey.png" width="450">
+  </div>
 
-<p align="center">
-  <img src="screenshots/admin_1.png" width="45%">
-  <img src="screenshots/admin_2.png" width="45%">
-</p>
+  <div>
+    <p align="center"><b>📊 결과 화면</b></p>
+    <img src="screenshots/result.png" width="450">
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div>
+    <p align="center"><b>👨‍💼 관리자 통계 조회</b></p>
+    <img src="screenshots/admin_1.png" width="450">
+  </div>
+
+  <div>
+    <p align="center"><b>📋 관리자 결과 조회</b></p>
+    <img src="screenshots/admin_2.png" width="450">
+  </div>
+</div>
+
+</div>
 
 ---
 
